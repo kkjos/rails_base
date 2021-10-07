@@ -81,7 +81,7 @@ header .heading {
 
 .main-visual-content {
   width: 40%; /* 横幅40% */
-  height: 300px; /* 親の高さに揃える */
+  height: 195px; /* 親の高さに揃える */
   background-color: rgba(0, 0, 0, 0.5); /* 背景色を半透明の黒にする */
   text-align: center; /* 文字を中央揃えにする */
   padding-top: 105px; /* 上側の内側余白で垂直方向の位置を調整 */
